@@ -28,7 +28,3 @@ This project predicts whether a customer is likely to churn using an Artificial 
 ## 🗃️ Artifacts
 - Pickled encoders and scaler (`.pkl`)
 - Trained ANN model saved as `.h5`
-
-## 📈 Future Work
-- Add model explainability (SHAP/LIME)
-- Deploy using Flask or Streamlit
